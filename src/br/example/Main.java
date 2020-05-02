@@ -7,7 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Carro meuCarro = new Carro();
-		meuCarro.nome = "Pálio";
+		meuCarro.nome = "Punto";
 		meuCarro.cor = "Preto";
 		meuCarro.marca = "Fiat";
 		System.out.println("O nome do carro é: " + meuCarro.nome);
